@@ -97,18 +97,3 @@ python game.py
 
 Ensure you have Python installed (3.8+ recommended).
 
-📝 Notes
-
-The code currently uses a continuous loop (while True:).
-For a fully playable game, exit conditions should be added.
-
-There are places where improvements can be made (e.g., card parsing, value mapping, avoiding repeated searches).
-
-Suits include Unicode symbols, so make sure your console supports UTF-8.
-
-If you'd like, I can also help you:
-✅ rewrite the code in OOP style
-✅ optimize the logic
-✅ fix bugs (e.g., count being undefined)
-✅ add real game mechanics
-Just say "refactor please" or "add real gameplay"!
