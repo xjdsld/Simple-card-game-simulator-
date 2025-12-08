@@ -5,7 +5,7 @@ It generates a deck, deals cards to a user and several bot players, determines a
 
 Total number of trump cards each player holds
 
-Minimum and maximum trump card values for every player
+Minimum and maximum trump card values for every player 
 
 The game loop continues until the deck is empty and players can no longer draw cards.
 
